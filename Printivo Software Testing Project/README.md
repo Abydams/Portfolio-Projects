@@ -56,4 +56,8 @@ The testing metrics provide insights into test execution and feature status:
    - **Add to Cart:** 98% pass rate (X out of X tests)
 
 ---
+Bug Report 
 
+[File name](Google sheet link)
+
+![Bug Report](https://github.com/Abydams/Portfolio-Projects/blob/main/Printivo%20Software%20Testing%20Project/Bug%20Report%20for%20Printivo.png)
