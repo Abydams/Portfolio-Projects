@@ -66,8 +66,7 @@ Click this link to view : [Bug Report](https://docs.google.com/spreadsheets/d/1F
 ---
 Testcase Document
 
-Click this link to view : [Testcase Document]
-(https://docs.google.com/spreadsheets/d/1smwo5pxT6JRSRapvtHI1DOsCKIZJCGYSLYyMsMDFv84/edit?gid=0#gid=0)
+Click this link to view : [Testcase Document](https://docs.google.com/spreadsheets/d/1smwo5pxT6JRSRapvtHI1DOsCKIZJCGYSLYyMsMDFv84/edit?gid=0#gid=0)
 
 
 ![Testcase Document](https://github.com/Abydams/Portfolio-Projects/blob/main/Printivo%20Software%20Testing%20Project/Testcase%20document%20for%20Printivo.png))
