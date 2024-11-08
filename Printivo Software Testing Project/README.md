@@ -62,3 +62,10 @@ Bug Report
 Click this link to view : [Bug Report](https://docs.google.com/spreadsheets/d/1FF_7z4GE3uyYo_1ase3Gg0DRLQkYjmWSkAnAEsvFUG4/edit?usp=sharing)
 
 ![Bug Report](https://github.com/Abydams/Portfolio-Projects/blob/main/Printivo%20Software%20Testing%20Project/Bug%20Report%20for%20Printivo.png)
+
+---
+Testcase Document
+
+Click this link to view : 
+
+
