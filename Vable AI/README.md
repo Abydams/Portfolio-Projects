@@ -59,8 +59,7 @@ The testing metrics provide insights into test execution and feature status:
 ---
 Bug Report 
 
-Click this link to view : [Bug Report]
-(https://docs.google.com/document/d/1tKPMAaV4HwFw_kc2G2B-DFc0kf7ZPsGhLSbl7CbQV6g/edit?usp=sharing)
+Click this link to view : [Bug Report](https://docs.google.com/document/d/1tKPMAaV4HwFw_kc2G2B-DFc0kf7ZPsGhLSbl7CbQV6g/edit?usp=sharing)
 
 ![Bug Report](https://github.com/Abydams/Portfolio-Projects/blob/main/Vable%20AI/bug%20report%20screenshot.png)
 
