@@ -1,9 +1,9 @@
 
-## **Printivo Test Summary Report**:
+## **Vable AI Test Summary Report**:
 
 ---
 
-### TEST SUMMARY REPORT FOR PRINTIVO
+### TEST SUMMARY REPORT FOR VABLE AI
 
 ---
 
@@ -59,14 +59,15 @@ The testing metrics provide insights into test execution and feature status:
 ---
 Bug Report 
 
-Click this link to view : [Bug Report](https://docs.google.com/spreadsheets/d/1FF_7z4GE3uyYo_1ase3Gg0DRLQkYjmWSkAnAEsvFUG4/edit?usp=sharing)
+Click this link to view : [Bug Report]
+(https://docs.google.com/document/d/1tKPMAaV4HwFw_kc2G2B-DFc0kf7ZPsGhLSbl7CbQV6g/edit?usp=sharing)
 
-![Bug Report](https://github.com/Abydams/Portfolio-Projects/blob/main/Printivo%20Software%20Testing%20Project/Bug%20Report%20for%20Printivo.png)
+![Bug Report](https://github.com/Abydams/Portfolio-Projects/blob/main/Vable%20AI/bug%20report%20screenshot.png)
 
 ---
 Testcase Document
 
-Click this link to view : [Testcase Document](https://docs.google.com/spreadsheets/d/1smwo5pxT6JRSRapvtHI1DOsCKIZJCGYSLYyMsMDFv84/edit?gid=0#gid=0)
+Click this link to view : [Testcase Document](https://docs.google.com/spreadsheets/d/1489hm5NW9VKde7VWLFyJVbN7cCLLl3mJ4qw_ZwErO68/edit?usp=sharing)
 
-![Testcase Document](https://github.com/Abydams/Portfolio-Projects/blob/main/Printivo%20Software%20Testing%20Project/Testcase%20document%20for%20Printivo.png))
+![Testcase Document](https://github.com/Abydams/Portfolio-Projects/blob/main/Vable%20AI/Testcase%20document%20screenshot%20for%20vable%20.png)
 
